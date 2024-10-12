@@ -1,8 +1,8 @@
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Kontrol_Perangkat_Elektronik_Berbasis_Arduino_Uno_dengan_Sinyal_EEG_Mindwave_0"></a>Kontrol Perangkat Elektronik Berbasis Arduino Uno dengan Sinyal EEG Mindwave</h1>
 <h2 class="code-line" data-line-start=2 data-line-end=3 ><a id="Deskripsi_Proyek_2"></a>Deskripsi Proyek</h2>
 
-<div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/25065d63-1f44-42d3-81f1-71f59ec97dd0" alt="1012">
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/25065d63-1f44-42d3-81f1-71f59ec97dd0" alt="GIF Description">
 </div>
 
 <p class="has-line-data" data-line-start="3" data-line-end="4">Proyek ini bertujuan untuk mengontrol perangkat elektronik menggunakan sinyal EEG dari sensor Mindwave yang dikirimkan ke Arduino Uno. Sistem ini memungkinkan sensor EEG untuk menangkap aktivitas gelombang otak, lalu menerjemahkannya menjadi perintah yang dieksekusi oleh perangkat elektronik. Dalam contoh ini, sinyal EEG digunakan untuk menyalakan dan mematikan lampu.</p>
