@@ -16,8 +16,7 @@
 <h2 class="code-line" data-line-start=15 data-line-end=16 ><a id="Instalasi_Driver_15"></a>Instalasi Driver</h2>
 <p class="has-line-data" data-line-start="16" data-line-end="17">Sebelum memulai perancangan sistem, pastikan untuk menginstal driver yang diperlukan:</p>
 <ul>
-<li class="has-line-data" data-line-start="18" data-line-end="19">Arduino Driver:</li>
-<li class="has-line-data" data-line-start="19" data-line-end="21">Mindwave EEG Sensor Driver:</li>
+<li class="has-line-data" data-line-start="18" data-line-end="19">Driver:https://drive.google.com/file/d/1FWFEhVTDrmcQ2YCt1SYm12RjCbZzK7tk/view?usp=sharing</li>
 </ul>
 <h2 class="code-line" data-line-start=21 data-line-end=22 ><a id="Langkahlangkah_21"></a>Langkah-langkah</h2>
 <ol>
